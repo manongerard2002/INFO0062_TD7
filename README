@@ -1,0 +1,5 @@
+compile with:
+javac -cp .;sokoban-gui.jar snake/Snake.java
+
+execute with:
+java -cp .;sokoban-gui.jar snake/Snake
